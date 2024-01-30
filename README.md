@@ -1,4 +1,4 @@
-# Project-CRES-plate-reconnaissance-des-plaques
+# Plate-reconnaissance-des-plaques
 final project for graduation in Artificial Intelligence training
 
 The goal of this project is to have a automatic control of Vehiculs in Goma town.
