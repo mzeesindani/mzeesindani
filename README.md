@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mzeesindani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project-CRES-plate-reconnaissance-des-plaques
+final project for graduation in Artificial Intelligence training
 
-<!---
-mzeesindani/mzeesindani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The goal of this project is to have a automatic control of Vehiculs in Goma town.
+## how does it work reely
+As every vehicul has a plate, we will be using it to identify a vehicul using Computer Vision,
+The informations of the vehicul are verified id a data base the we getback a message that confirm if the vehicul is uptade with various taxes
